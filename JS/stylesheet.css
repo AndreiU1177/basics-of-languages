@@ -1,0 +1,15 @@
+*{
+    background-color: bisque;
+}
+
+.button_border{  /* using class to customize */
+    border: 5px solid black;
+    border-radius: 30px;
+    padding: 32px 16px;
+}
+
+#button1{
+    background-color: brown;
+    border-color: pink;
+}
+
